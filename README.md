@@ -24,6 +24,13 @@ to run
 py parking.py
 ```
 
+### for GPU support
+[https://www.tensorflow.org/install/gpu]
+update NVidia drivers
+install visual studio community  (might not be required - but CUDA install calls for it)
+install CUDA toolkit
+
+
 ### another interesting resource is here
 [http://cnrpark.it/]
 [https://github.com/fabiocarrara/deep-parking]
